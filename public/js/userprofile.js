@@ -30,7 +30,8 @@ function func1() {
 document.getElementById("saveProfile").addEventListener("click", func2);
 function func2() {
     var elements = document.getElementsByClassName("edit");
-    for (var i = 0; i < elements.length; i++) {
+    for (var i = 0; i < elements.length; i++)
+    {
         elements[i].setAttribute("contenteditable", "false");
     }
 }
