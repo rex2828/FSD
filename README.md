@@ -14,5 +14,3 @@ Steps -
 4) Open in browser type localhost:3000
 
 
-Readme Link:
-https://github.com/rex2828/FSD
